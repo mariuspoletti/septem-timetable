@@ -1,6 +1,6 @@
-# Tempo exam timetable
+# Septem exam timetable
 
-This repository holds one data file, `timetable.json`: the dates of the IB Diploma Programme written exams, used by the Tempo study app to fill in a student's exam dates.
+This repository holds one data file, `timetable.json`: the dates of the IB Diploma Programme written exams, used by the Septem study app to fill in a student's exam dates.
 
 **Not affiliated with or endorsed by the IB. Always confirm your dates with your IB coordinator.**
 
